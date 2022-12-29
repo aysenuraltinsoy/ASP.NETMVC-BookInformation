@@ -1,0 +1,12 @@
+C:\Users\aalti\Desktop\BilgeAdam\mvc\BooksOnionArc\BooksOnion.Domain\bin\Debug\net7.0\BooksOnion.Domain.deps.json
+C:\Users\aalti\Desktop\BilgeAdam\mvc\BooksOnionArc\BooksOnion.Domain\bin\Debug\net7.0\BooksOnion.Domain.dll
+C:\Users\aalti\Desktop\BilgeAdam\mvc\BooksOnionArc\BooksOnion.Domain\bin\Debug\net7.0\BooksOnion.Domain.pdb
+C:\Users\aalti\Desktop\BilgeAdam\mvc\BooksOnionArc\BooksOnion.Domain\obj\Debug\net7.0\BooksOnion.Domain.csproj.AssemblyReference.cache
+C:\Users\aalti\Desktop\BilgeAdam\mvc\BooksOnionArc\BooksOnion.Domain\obj\Debug\net7.0\BooksOnion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalti\Desktop\BilgeAdam\mvc\BooksOnionArc\BooksOnion.Domain\obj\Debug\net7.0\BooksOnion.Domain.AssemblyInfoInputs.cache
+C:\Users\aalti\Desktop\BilgeAdam\mvc\BooksOnionArc\BooksOnion.Domain\obj\Debug\net7.0\BooksOnion.Domain.AssemblyInfo.cs
+C:\Users\aalti\Desktop\BilgeAdam\mvc\BooksOnionArc\BooksOnion.Domain\obj\Debug\net7.0\BooksOnion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aalti\Desktop\BilgeAdam\mvc\BooksOnionArc\BooksOnion.Domain\obj\Debug\net7.0\BooksOnion.Domain.dll
+C:\Users\aalti\Desktop\BilgeAdam\mvc\BooksOnionArc\BooksOnion.Domain\obj\Debug\net7.0\refint\BooksOnion.Domain.dll
+C:\Users\aalti\Desktop\BilgeAdam\mvc\BooksOnionArc\BooksOnion.Domain\obj\Debug\net7.0\BooksOnion.Domain.pdb
+C:\Users\aalti\Desktop\BilgeAdam\mvc\BooksOnionArc\BooksOnion.Domain\obj\Debug\net7.0\ref\BooksOnion.Domain.dll
